@@ -1,2 +1,3 @@
 Teste
 Linha adicionada somente na nova branch
+Teste
